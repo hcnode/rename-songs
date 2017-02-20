@@ -12,4 +12,4 @@ And I tried to find whether I can change the order type, but I fail. So I make t
 
 goto the folder and run `rename-songs`
 
-it will find the sub-document's mp3 and rename them
+it will find the sub-folder's mp3 and rename them
